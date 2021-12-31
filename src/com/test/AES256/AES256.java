@@ -12,7 +12,7 @@ import java.util.Base64;
 
 public class AES256 {
 
-    private static final String SECRET_KEY = "ABCDE#12345!BLABLA";
+    private static final String SECRET_KEY = "ABCDE#12345!BLABLAA";
     private static final String SALT = "garemItuSalt";
     private static final String SECRET_FACTORY = "PBKDF2WithHmacSHA256";
     private static final String ALGORITHM = "AES";
